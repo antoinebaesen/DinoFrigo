@@ -1,0 +1,605 @@
+# Catalogue Dino Frigo
+
+**358 recettes · 197 ingrédients.** Tous les plats sont désactivés et les stocks sont à zéro au premier démarrage.
+
+Ce catalogue étendu reste enrichissable : il ne prétend pas couvrir toutes les cuisines du monde. Les compositions sont des versions usuelles pour 2 personnes, personnalisables dans Édition. Les niveaux indiquent une réserve à prévoir, pas un dosage de recette. Le sel, le poivre et les matières grasses peuvent être ajoutés selon vos habitudes. Les emojis représentent les aliments ou leur famille. Les recettes partent de bases simples à enrichir dans Édition. Les plats principaux et occasionnels sont sélectionnables séparément.
+
+## Ingrédients
+
+- 🍅 **Tomates** — nombre d’unités
+- 🥕 **Carottes** — nombre d’unités
+- 🥔 **Pommes de terre** — nombre d’unités
+- 🧅 **Oignons** — nombre d’unités
+- 🧄 **Ail** — nombre d’unités
+- 🍆 **Aubergines** — nombre d’unités
+- 🥒 **Concombres** — nombre d’unités
+- 🥒 **Courgettes** — nombre d’unités
+- 🫑 **Poivrons** — nombre d’unités
+- 🥦 **Brocoli** — nombre d’unités
+- 🥬 **Salade verte** — absent / peu / moyen / beaucoup / énormément
+- 🍄 **Champignons** — absent / peu / moyen / beaucoup / énormément
+- 🌽 **Maïs** — absent / peu / moyen / beaucoup / énormément
+- 🥑 **Avocats** — nombre d’unités
+- 🎃 **Potiron** — absent / peu / moyen / beaucoup / énormément
+- 🍠 **Patates douces** — nombre d’unités
+- 🥬 **Poireaux** — nombre d’unités
+- 🥬 **Épinards** — absent / peu / moyen / beaucoup / énormément
+- 🥬 **Chou-fleur** — nombre d’unités
+- 🥬 **Chou blanc** — absent / peu / moyen / beaucoup / énormément
+- 🥬 **Chou rouge** — absent / peu / moyen / beaucoup / énormément
+- 🥬 **Choux de Bruxelles** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Haricots verts** — absent / peu / moyen / beaucoup / énormément
+- 🫛 **Petits pois** — absent / peu / moyen / beaucoup / énormément
+- 🥬 **Céleri** — absent / peu / moyen / beaucoup / énormément
+- 🥕 **Navets** — nombre d’unités
+- 🥕 **Radis** — absent / peu / moyen / beaucoup / énormément
+- 🥕 **Betteraves** — nombre d’unités
+- 🥬 **Asperges** — absent / peu / moyen / beaucoup / énormément
+- 🥬 **Fenouil** — nombre d’unités
+- 🥬 **Endives** — nombre d’unités
+- 🥬 **Artichauts** — nombre d’unités
+- 🧅 **Échalotes** — nombre d’unités
+- 🫚 **Gingembre** — absent / peu / moyen / beaucoup / énormément
+- 🍋 **Citrons** — nombre d’unités
+- 🍋‍🟩 **Citrons verts** — nombre d’unités
+- 🍎 **Pommes** — nombre d’unités
+- 🍐 **Poires** — nombre d’unités
+- 🍌 **Bananes** — nombre d’unités
+- 🍓 **Fraises** — absent / peu / moyen / beaucoup / énormément
+- 🍓 **Framboises** — absent / peu / moyen / beaucoup / énormément
+- 🫐 **Myrtilles** — absent / peu / moyen / beaucoup / énormément
+- 🍊 **Oranges** — nombre d’unités
+- 🍍 **Ananas** — nombre d’unités
+- 🥭 **Mangues** — nombre d’unités
+- 🍑 **Pêches** — nombre d’unités
+- 🍑 **Abricots** — absent / peu / moyen / beaucoup / énormément
+- 🍇 **Raisins** — absent / peu / moyen / beaucoup / énormément
+- 🍈 **Melon** — nombre d’unités
+- 🍉 **Pastèque** — absent / peu / moyen / beaucoup / énormément
+- 🥝 **Kiwis** — nombre d’unités
+- 🍒 **Cerises** — absent / peu / moyen / beaucoup / énormément
+- 🍇 **Dattes** — absent / peu / moyen / beaucoup / énormément
+- 🍇 **Raisins secs** — absent / peu / moyen / beaucoup / énormément
+- 🫒 **Olives** — absent / peu / moyen / beaucoup / énormément
+- 🌰 **Noix** — absent / peu / moyen / beaucoup / énormément
+- 🌰 **Amandes** — absent / peu / moyen / beaucoup / énormément
+- 🌰 **Noisettes** — absent / peu / moyen / beaucoup / énormément
+- 🥜 **Cacahuètes** — absent / peu / moyen / beaucoup / énormément
+- 🌰 **Noix de cajou** — absent / peu / moyen / beaucoup / énormément
+- 🥥 **Noix de coco râpée** — absent / peu / moyen / beaucoup / énormément
+- 🌱 **Graines de sésame** — absent / peu / moyen / beaucoup / énormément
+- 🌱 **Graines de chia** — absent / peu / moyen / beaucoup / énormément
+- 🥚 **Œufs** — nombre d’unités
+- 🥛 **Lait** — absent / peu / moyen / beaucoup / énormément
+- 🧈 **Beurre** — absent / peu / moyen / beaucoup / énormément
+- 🥛 **Crème fraîche** — absent / peu / moyen / beaucoup / énormément
+- 🥛 **Yaourt nature** — absent / peu / moyen / beaucoup / énormément
+- 🥛 **Fromage blanc** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Emmental râpé** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Parmesan** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Mozzarella** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Feta** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Fromage de chèvre** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Roquefort** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Reblochon** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Fromage à raclette** — absent / peu / moyen / beaucoup / énormément
+- 🥛 **Mascarpone** — absent / peu / moyen / beaucoup / énormément
+- 🥛 **Ricotta** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Camembert** — absent / peu / moyen / beaucoup / énormément
+- 🍗 **Poulet** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Bœuf** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Bœuf haché** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Porc** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Veau** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Agneau** — absent / peu / moyen / beaucoup / énormément
+- 🍗 **Dinde** — absent / peu / moyen / beaucoup / énormément
+- 🍗 **Canard** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Jambon** — absent / peu / moyen / beaucoup / énormément
+- 🥓 **Lardons** — absent / peu / moyen / beaucoup / énormément
+- 🌭 **Saucisses** — absent / peu / moyen / beaucoup / énormément
+- 🥓 **Chorizo** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Saumon** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Saumon fumé** — absent / peu / moyen / beaucoup / énormément
+- 🥫 **Thon en conserve** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Cabillaud** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Sardines** — absent / peu / moyen / beaucoup / énormément
+- 🦐 **Crevettes** — absent / peu / moyen / beaucoup / énormément
+- 🐚 **Moules** — absent / peu / moyen / beaucoup / énormément
+- 🦑 **Calamars** — absent / peu / moyen / beaucoup / énormément
+- 🫘 **Tofu** — absent / peu / moyen / beaucoup / énormément
+- 🫘 **Lentilles vertes** — absent / peu / moyen / beaucoup / énormément
+- 🫘 **Lentilles corail** — absent / peu / moyen / beaucoup / énormément
+- 🫘 **Pois chiches** — absent / peu / moyen / beaucoup / énormément
+- 🫘 **Haricots rouges** — absent / peu / moyen / beaucoup / énormément
+- 🫘 **Haricots blancs** — absent / peu / moyen / beaucoup / énormément
+- 🍝 **Pâtes** — absent / peu / moyen / beaucoup / énormément
+- 🍚 **Riz** — absent / peu / moyen / beaucoup / énormément
+- 🍚 **Riz à risotto** — absent / peu / moyen / beaucoup / énormément
+- 🍚 **Semoule de couscous** — absent / peu / moyen / beaucoup / énormément
+- 🍚 **Quinoa** — absent / peu / moyen / beaucoup / énormément
+- 🍚 **Boulgour** — absent / peu / moyen / beaucoup / énormément
+- 🍜 **Nouilles asiatiques** — absent / peu / moyen / beaucoup / énormément
+- 🍜 **Vermicelles de riz** — absent / peu / moyen / beaucoup / énormément
+- 🥔 **Gnocchis** — absent / peu / moyen / beaucoup / énormément
+- 🌾 **Farine de blé** — absent / peu / moyen / beaucoup / énormément
+- 🌾 **Farine de sarrasin** — absent / peu / moyen / beaucoup / énormément
+- 🌾 **Flocons d’avoine** — absent / peu / moyen / beaucoup / énormément
+- 🍞 **Pain** — absent / peu / moyen / beaucoup / énormément
+- 🍞 **Pain de mie** — absent / peu / moyen / beaucoup / énormément
+- 🥖 **Baguette** — absent / peu / moyen / beaucoup / énormément
+- 🫓 **Tortillas** — absent / peu / moyen / beaucoup / énormément
+- 🍔 **Pains à burger** — absent / peu / moyen / beaucoup / énormément
+- 🥧 **Pâte brisée** — absent / peu / moyen / beaucoup / énormément
+- 🥐 **Pâte feuilletée** — absent / peu / moyen / beaucoup / énormément
+- 🍕 **Pâte à pizza** — absent / peu / moyen / beaucoup / énormément
+- 🍝 **Feuilles de lasagne** — absent / peu / moyen / beaucoup / énormément
+- 🫓 **Feuilles de brick** — absent / peu / moyen / beaucoup / énormément
+- 🫓 **Feuilles de riz** — absent / peu / moyen / beaucoup / énormément
+- 🍞 **Chapelure** — absent / peu / moyen / beaucoup / énormément
+- 🍅 **Tomates concassées** — absent / peu / moyen / beaucoup / énormément
+- 🍅 **Concentré de tomate** — absent / peu / moyen / beaucoup / énormément
+- 🥥 **Lait de coco** — absent / peu / moyen / beaucoup / énormément
+- 🍲 **Bouillon de légumes** — absent / peu / moyen / beaucoup / énormément
+- 🫒 **Huile d’olive** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Huile neutre** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Vinaigre** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Vinaigre balsamique** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Moutarde** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Mayonnaise** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Sauce soja** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Pesto** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Tahini** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Sel** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Poivre** — absent / peu / moyen / beaucoup / énormément
+- 🌶️ **Paprika** — absent / peu / moyen / beaucoup / énormément
+- 🍛 **Curry** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Cumin** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Curcuma** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Cannelle** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Muscade** — absent / peu / moyen / beaucoup / énormément
+- 🌶️ **Piment** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Herbes de Provence** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Basilic** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Persil** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Coriandre** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Menthe** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Ciboulette** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Aneth** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Thym** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Romarin** — absent / peu / moyen / beaucoup / énormément
+- 🌿 **Laurier** — absent / peu / moyen / beaucoup / énormément
+- 🍬 **Sucre** — absent / peu / moyen / beaucoup / énormément
+- 🍬 **Sucre glace** — absent / peu / moyen / beaucoup / énormément
+- 🍯 **Miel** — absent / peu / moyen / beaucoup / énormément
+- 🍯 **Sirop d’érable** — absent / peu / moyen / beaucoup / énormément
+- 🍫 **Chocolat noir** — absent / peu / moyen / beaucoup / énormément
+- 🍫 **Cacao** — absent / peu / moyen / beaucoup / énormément
+- 🧂 **Vanille** — absent / peu / moyen / beaucoup / énormément
+- 🍞 **Levure chimique** — absent / peu / moyen / beaucoup / énormément
+- 🍞 **Levure de boulanger** — absent / peu / moyen / beaucoup / énormément
+- 🌽 **Fécule de maïs** — absent / peu / moyen / beaucoup / énormément
+- 🍮 **Gélatine** — absent / peu / moyen / beaucoup / énormément
+- ☕ **Café** — absent / peu / moyen / beaucoup / énormément
+- 🍪 **Biscuits secs** — absent / peu / moyen / beaucoup / énormément
+- 🍪 **Biscuits à la cuillère** — absent / peu / moyen / beaucoup / énormément
+- 🫙 **Confiture** — absent / peu / moyen / beaucoup / énormément
+- 🥂 **Vin blanc de cuisine** — absent / peu / moyen / beaucoup / énormément
+- 🍷 **Vin rouge de cuisine** — absent / peu / moyen / beaucoup / énormément
+- 🍺 **Cidre de cuisine** — absent / peu / moyen / beaucoup / énormément
+- 🥒 **Cornichons** — absent / peu / moyen / beaucoup / énormément
+- 🫒 **Câpres** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Anchois** — absent / peu / moyen / beaucoup / énormément
+- 🍊 **Eau de fleur d’oranger** — absent / peu / moyen / beaucoup / énormément
+- 🍞 **Brioche** — absent / peu / moyen / beaucoup / énormément
+- 🍫 **Pâte à tartiner** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Tartinade de thon** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Jambon sec** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Saucisson** — absent / peu / moyen / beaucoup / énormément
+- 🍗 **Nuggets** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Bâtonnets de poisson** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Steak** — absent / peu / moyen / beaucoup / énormément
+- 🍅 **Ketchup** — absent / peu / moyen / beaucoup / énormément
+- 🐟 **Poisson** — absent / peu / moyen / beaucoup / énormément
+- 🥩 **Viande** — absent / peu / moyen / beaucoup / énormément
+- 🧀 **Fromage** — absent / peu / moyen / beaucoup / énormément
+- 🍬 **Bonbons** — absent / peu / moyen / beaucoup / énormément
+
+## Salades et entrées
+
+- 🥗🍅 **Salade de tomates** : 🍅 Tomates × 3
+- 🥗 **Salade grecque** : 🍅 Tomates × 2, 🥒 Concombres × 1, 🧀 Feta, 🫒 Olives
+- 🥗🥬 **Salade niçoise** : 🥬 Salade verte, 🍅 Tomates × 2, 🥚 Œufs × 2, 🥫 Thon en conserve, 🌿 Haricots verts, 🫒 Olives
+- 🥗🥬 **Salade César** : 🥬 Salade verte, 🍗 Poulet, 🍞 Pain, 🧀 Parmesan, 🥚 Œufs × 1, 🐟 Anchois
+- 🥗🫘 **Salade de lentilles** : 🫘 Lentilles vertes
+- 🥗🍚 **Salade de quinoa** : 🍚 Quinoa, 🍅 Tomates × 2, 🥒 Concombres × 1
+- 🥗 **Salade de pâtes** : 🍝 Pâtes, 🍅 Tomates × 2, 🌽 Maïs, 🥫 Thon en conserve
+- 🥗 **Salade de riz** : 🍚 Riz, 🥫 Thon en conserve, 🌽 Maïs, 🍅 Tomates × 2, 🥚 Œufs × 2
+- 🥗 **Salade de pommes de terre** : 🥔 Pommes de terre × 4
+- 🥗🥕 **Salade de betteraves** : 🥕 Betteraves × 2, 🧀 Fromage de chèvre, 🌰 Noix
+- 🥗🥬 **Salade d’endives aux noix** : 🥬 Endives × 3, 🧀 Roquefort, 🌰 Noix, 🍎 Pommes × 1
+- 🥗🥬 **Salade de chou** : 🥬 Chou blanc, 🥕 Carottes × 2, 🫙 Mayonnaise
+- 🥗🍚 **Taboulé au boulgour** : 🍚 Boulgour, 🍅 Tomates × 2, 🥒 Concombres × 1
+- 🥘🥕 **Carottes râpées** : 🥕 Carottes × 3
+- 🥘🥒 **Concombres au yaourt** : 🥒 Concombres × 1, 🥛 Yaourt nature
+- 🥘🥑 **Avocats aux crevettes** : 🥑 Avocats × 2, 🦐 Crevettes, 🫙 Mayonnaise
+- 🥘 **Œufs mimosa** : 🥚 Œufs × 4, 🫙 Mayonnaise
+- 🥘 **Houmous** : 🫘 Pois chiches, 🫙 Tahini, 🫒 Huile d’olive, 🧂 Cumin
+- 🥘🍆 **Caviar d’aubergine** : 🍆 Aubergines × 2
+- 🥘 **Tzatziki** : 🥒 Concombres × 1, 🥛 Yaourt nature
+- 🥘 **Guacamole** : 🥑 Avocats × 2, 🍅 Tomates × 1, 🍋‍🟩 Citrons verts × 1
+- 🥘 **Bruschetta** : 🥖 Baguette, 🍅 Tomates × 2
+- 🫙🥬 **Artichauts vinaigrette** : 🥬 Artichauts × 2, 🫙 Vinaigre, 🫒 Huile d’olive
+- 🥘🥕 **Radis au beurre** : 🥕 Radis, 🧈 Beurre, 🍞 Pain
+- 🥘🍈 **Melon au jambon** : 🍈 Melon × 1, 🥩 Jambon
+- 🥗🥬 **Salade de fenouil à l’orange** : 🥬 Fenouil × 1, 🍊 Oranges × 2, 🫒 Olives
+- 🥗🥬 **Salade de chou rouge** : 🥬 Chou rouge, 🍎 Pommes × 1, 🌰 Noix
+- 🥗🫘 **Salade de pois chiches** : 🫘 Pois chiches, 🍅 Tomates × 2, 🥒 Concombres × 1
+
+## Soupes et veloutés
+
+- 🍲 **Soupe de légumes** : 🥕 Carottes × 2, 🥔 Pommes de terre × 2, 🥬 Poireaux × 1, 🍲 Bouillon de légumes
+- 🍲🎃 **Velouté de potiron** : 🎃 Potiron, 🍲 Bouillon de légumes
+- 🍲🥒 **Velouté de courgettes** : 🥒 Courgettes × 3, 🍲 Bouillon de légumes
+- 🍲🍄 **Velouté de champignons** : 🍄 Champignons, 🧅 Échalotes × 1, 🍲 Bouillon de légumes
+- 🍲🍅 **Soupe de tomates** : 🍅 Tomates × 5, 🌿 Basilic, 🍲 Bouillon de légumes
+- 🍲🥬 **Soupe de poireaux** : 🥬 Poireaux × 3, 🥔 Pommes de terre × 2, 🍲 Bouillon de légumes
+- 🍲🧅 **Soupe à l’oignon** : 🧅 Oignons × 4, 🍲 Bouillon de légumes, 🍞 Pain, 🧀 Emmental râpé
+- 🍲🥕 **Velouté de carottes au cumin** : 🥕 Carottes × 5, 🧂 Cumin, 🍲 Bouillon de légumes
+- 🍲 **Soupe de lentilles corail** : 🫘 Lentilles corail, 🥕 Carottes × 2, 🍛 Curry, 🥥 Lait de coco, 🍲 Bouillon de légumes
+- 🥘 **Minestrone** : 🫘 Haricots blancs, 🍝 Pâtes, 🥕 Carottes × 2, 🥬 Céleri, 🥒 Courgettes × 1, 🍅 Tomates concassées, 🍲 Bouillon de légumes
+- 🥘 **Gaspacho** : 🍅 Tomates × 4, 🥒 Concombres × 1, 🫑 Poivrons × 1
+- 🍲 **Velouté de petits pois** : 🫛 Petits pois, 🌿 Menthe, 🍲 Bouillon de légumes
+- 🍲🥦 **Velouté de brocoli** : 🥦 Brocoli × 1, 🥔 Pommes de terre × 1, 🍲 Bouillon de légumes
+- 🍲🥬 **Velouté de chou-fleur** : 🥬 Chou-fleur × 1, 🍲 Bouillon de légumes
+- 🍲 **Soupe de patates douces** : 🍠 Patates douces × 2, 🥕 Carottes × 2, 🫚 Gingembre, 🥥 Lait de coco, 🍲 Bouillon de légumes
+- 🍲 **Soupe au pistou** : 🫘 Haricots blancs, 🌿 Haricots verts, 🥒 Courgettes × 1, 🥕 Carottes × 1, 🍝 Pâtes, 🌿 Basilic
+- 🍲🍜 **Bouillon de nouilles au poulet** : 🍜 Nouilles asiatiques, 🍗 Poulet, 🥕 Carottes × 1, 🫚 Gingembre, 🫙 Sauce soja, 🍲 Bouillon de légumes
+- 🍲🫘 **Soupe de pois chiches** : 🫘 Pois chiches, 🍅 Tomates concassées, 🥬 Céleri, 🧂 Cumin, 🍲 Bouillon de légumes
+
+## Pâtes, gnocchis et lasagnes
+
+- 🍝 **Spaghetti à la tomate** : 🍝 Pâtes, 🍅 Tomates concassées
+- 🍝 **Spaghetti bolognaise** : 🍝 Pâtes, 🥩 Bœuf haché, 🍅 Tomates concassées, 🥕 Carottes × 1, 🧅 Oignons × 1
+- 🍝 **Pâtes carbonara à la française** : 🍝 Pâtes, 🥓 Lardons, 🥚 Œufs × 2, 🥛 Crème fraîche, 🧀 Parmesan
+- 🍝🌿 **Pâtes au pesto** : 🍝 Pâtes, 🌿 Pesto, 🧀 Parmesan
+- 🍝🐟 **Pâtes au saumon** : 🍝 Pâtes, 🐟 Saumon, 🥛 Crème fraîche, 🍋 Citrons × 1
+- 🍝🥫 **Pâtes au thon** : 🍝 Pâtes, 🥫 Thon en conserve, 🍅 Tomates concassées, 🧅 Oignons × 1
+- 🍝🍄 **Pâtes aux champignons** : 🍝 Pâtes, 🍄 Champignons, 🥛 Crème fraîche
+- 🍝🥬 **Pâtes aux épinards** : 🍝 Pâtes, 🥬 Épinards, 🥛 Ricotta
+- 🍝🥒 **Pâtes aux courgettes** : 🍝 Pâtes, 🥒 Courgettes × 2, 🧀 Parmesan
+- 🍝 **Pâtes arrabbiata** : 🍝 Pâtes, 🍅 Tomates concassées, 🌶️ Piment
+- 🍝 **Pâtes aux quatre fromages** : 🍝 Pâtes, 🧀 Emmental râpé, 🧀 Parmesan, 🧀 Roquefort, 🧀 Fromage de chèvre, 🥛 Crème fraîche
+- 🍝🦐 **Pâtes aux crevettes** : 🍝 Pâtes, 🦐 Crevettes, 🍋 Citrons × 1
+- 🍝 **Pâtes à la puttanesca** : 🍝 Pâtes, 🍅 Tomates concassées, 🫒 Olives, 🫒 Câpres, 🐟 Anchois
+- 🍝 **Lasagnes bolognaises** : 🍝 Feuilles de lasagne, 🥩 Bœuf haché, 🍅 Tomates concassées, 🧅 Oignons × 1, 🥛 Lait, 🌾 Farine de blé, 🧀 Emmental râpé
+- 🍝 **Lasagnes aux légumes** : 🍝 Feuilles de lasagne, 🥒 Courgettes × 1, 🍆 Aubergines × 1, 🫑 Poivrons × 1, 🍅 Tomates concassées, 🥛 Lait, 🌾 Farine de blé, 🧀 Emmental râpé
+- 🍝🥬 **Lasagnes épinards ricotta** : 🍝 Feuilles de lasagne, 🥬 Épinards, 🥛 Ricotta, 🥛 Lait, 🌾 Farine de blé, 🧀 Parmesan
+- 🥘🥔 **Gnocchis au beurre et aux herbes** : 🥔 Gnocchis, 🧈 Beurre, 🧀 Parmesan
+- 🥘🥔 **Gnocchis à la tomate** : 🥔 Gnocchis, 🍅 Tomates concassées, 🧀 Mozzarella, 🌿 Basilic
+- 🥘🥔 **Gnocchis aux champignons** : 🥔 Gnocchis, 🍄 Champignons, 🥛 Crème fraîche, 🧀 Parmesan
+- 🍝🥩 **Gratin de pâtes au jambon** : 🍝 Pâtes, 🥩 Jambon, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🍝🥦 **Gratin de pâtes au brocoli** : 🍝 Pâtes, 🥦 Brocoli × 1, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🍝🍆 **Pâtes aux aubergines** : 🍝 Pâtes, 🍆 Aubergines × 1, 🍅 Tomates concassées, 🌿 Basilic
+
+## Riz et céréales
+
+- 🍚🍄 **Risotto aux champignons** : 🍚 Riz à risotto, 🍄 Champignons, 🧅 Oignons × 1, 🍲 Bouillon de légumes, 🧀 Parmesan
+- 🍚🥬 **Risotto aux asperges** : 🍚 Riz à risotto, 🥬 Asperges, 🧅 Échalotes × 1, 🍲 Bouillon de légumes, 🧀 Parmesan
+- 🍚 **Risotto aux petits pois** : 🍚 Riz à risotto, 🫛 Petits pois, 🧅 Oignons × 1, 🍲 Bouillon de légumes, 🧀 Parmesan
+- 🍚🎃 **Risotto au potiron** : 🍚 Riz à risotto, 🎃 Potiron, 🧅 Oignons × 1, 🍲 Bouillon de légumes, 🧀 Parmesan
+- 🍚 **Riz cantonais** : 🍚 Riz, 🥚 Œufs × 2, 🥩 Jambon, 🫛 Petits pois, 🫙 Sauce soja
+- 🍚 **Riz sauté aux légumes** : 🍚 Riz, 🥕 Carottes × 1, 🥒 Courgettes × 1, 🫛 Petits pois, 🫙 Sauce soja
+- 🍚🍗 **Riz au poulet** : 🍚 Riz, 🍗 Poulet, 🧅 Oignons × 1, 🫑 Poivrons × 1, 🍲 Bouillon de légumes
+- 🍚 **Riz à la tomate** : 🍚 Riz, 🍅 Tomates concassées, 🧅 Oignons × 1, 🍲 Bouillon de légumes
+- 🥘 **Paëlla simplifiée** : 🍚 Riz, 🍗 Poulet, 🦐 Crevettes, 🐚 Moules, 🫑 Poivrons × 1, 🫛 Petits pois, 🌶️ Paprika, 🍲 Bouillon de légumes
+- 🥘🍚 **Pilaf de boulgour** : 🍚 Boulgour, 🍅 Tomates concassées, 🧅 Oignons × 1, 🫑 Poivrons × 1, 🍲 Bouillon de légumes
+- 🥘🍚 **Quinoa aux légumes rôtis** : 🍚 Quinoa, 🥒 Courgettes × 1, 🥕 Carottes × 2, 🫑 Poivrons × 1
+- 🥘 **Couscous végétarien** : 🍚 Semoule de couscous, 🫘 Pois chiches, 🥕 Carottes × 2, 🥒 Courgettes × 1, 🥕 Navets × 2, 🍅 Tomates concassées, 🧂 Cumin, 🍲 Bouillon de légumes
+- 🥘🍗 **Couscous au poulet** : 🍚 Semoule de couscous, 🍗 Poulet, 🫘 Pois chiches, 🥕 Carottes × 2, 🥒 Courgettes × 1, 🧂 Cumin, 🍲 Bouillon de légumes
+- 🥘🐟 **Bowl au saumon** : 🍚 Riz, 🐟 Saumon, 🥑 Avocats × 1, 🥒 Concombres × 1, 🫙 Sauce soja, 🌱 Graines de sésame
+- 🥘🫘 **Bowl au tofu** : 🍚 Quinoa, 🫘 Tofu, 🥕 Carottes × 1, 🥦 Brocoli × 1, 🫙 Sauce soja, 🌱 Graines de sésame
+- 🍚 **Riz aux haricots rouges** : 🍚 Riz, 🫘 Haricots rouges, 🍅 Tomates concassées, 🧅 Oignons × 1, 🧂 Cumin
+
+## Œufs et repas rapides
+
+- 🍳 **Omelette nature** : 🥚 Œufs × 4
+- 🍳 **Omelette au fromage** : 🥚 Œufs × 4, 🧀 Emmental râpé
+- 🍳🍄 **Omelette aux champignons** : 🥚 Œufs × 4, 🍄 Champignons
+- 🍳 **Omelette aux pommes de terre** : 🥚 Œufs × 4, 🥔 Pommes de terre × 3, 🧅 Oignons × 1
+- 🍳🥬 **Omelette aux épinards** : 🥚 Œufs × 4, 🥬 Épinards, 🧀 Feta
+- 🥘 **Œufs brouillés** : 🥚 Œufs × 4
+- 🥘🥩 **Œufs cocotte au jambon** : 🥚 Œufs × 2, 🥩 Jambon, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🥘🍄 **Œufs cocotte aux champignons** : 🥚 Œufs × 2, 🍄 Champignons, 🥛 Crème fraîche
+- 🥘 **Chakchouka** : 🥚 Œufs × 4, 🫑 Poivrons × 2, 🍅 Tomates concassées, 🧅 Oignons × 1, 🧂 Cumin
+- 🥘 **Tortilla espagnole** : 🥚 Œufs × 4, 🥔 Pommes de terre × 4, 🧅 Oignons × 1
+- 🥘 **Frittata aux légumes** : 🥚 Œufs × 4, 🥒 Courgettes × 1, 🫑 Poivrons × 1, 🫛 Petits pois, 🧀 Parmesan
+- 🥪 **Croque-monsieur** : 🍞 Pain de mie, 🥩 Jambon, 🧀 Emmental râpé
+- 🥪 **Croque-madame** : 🍞 Pain de mie, 🥩 Jambon, 🧀 Emmental râpé, 🥚 Œufs × 2
+- 🥪🥑 **Tartines avocat œuf** : 🍞 Pain, 🥑 Avocats × 1, 🥚 Œufs × 2, 🍋 Citrons × 1
+- 🥪🧀 **Tartines chèvre miel** : 🍞 Pain, 🧀 Fromage de chèvre, 🍯 Miel, 🌰 Noix
+- 🥪🥛 **Tartines saumon fromage blanc** : 🍞 Pain, 🐟 Saumon fumé, 🥛 Fromage blanc, 🍋 Citrons × 1
+- 🥪🥩 **Sandwich jambon beurre** : 🥖 Baguette, 🥩 Jambon, 🧈 Beurre, 🥒 Cornichons
+- 🥪🥫 **Sandwich au thon** : 🍞 Pain de mie, 🥫 Thon en conserve, 🫙 Mayonnaise, 🥬 Salade verte, 🍅 Tomates × 1
+- 🌯🍗 **Wrap au poulet** : 🫓 Tortillas, 🍗 Poulet, 🥬 Salade verte, 🍅 Tomates × 1, 🥛 Yaourt nature
+- 🌯 **Wrap végétarien** : 🫓 Tortillas, 🫘 Pois chiches, 🥑 Avocats × 1, 🥕 Carottes × 1, 🥛 Yaourt nature, 🍋 Citrons × 1
+- 🍔 **Burger maison** : 🍔 Pains à burger, 🥩 Bœuf haché, 🥬 Salade verte, 🍅 Tomates × 1, 🧀 Emmental râpé, 🧅 Oignons × 1
+- 🍔 **Burger végétarien aux haricots** : 🍔 Pains à burger, 🫘 Haricots rouges, 🥚 Œufs × 1, 🍞 Chapelure, 🥬 Salade verte, 🍅 Tomates × 1, 🧂 Cumin
+- 🥘 **Quesadillas au fromage** : 🫓 Tortillas, 🧀 Emmental râpé, 🫑 Poivrons × 1, 🧅 Oignons × 1
+- 🥘 **Hot-dog** : 🥖 Baguette, 🌭 Saucisses, 🫙 Moutarde, 🧅 Oignons × 1
+
+## Tartes, pizzas et feuilletés
+
+- 🥧 **Quiche lorraine** : 🥧 Pâte brisée, 🥓 Lardons, 🥚 Œufs × 3, 🥛 Crème fraîche, 🥛 Lait
+- 🥧🥬 **Quiche aux poireaux** : 🥧 Pâte brisée, 🥬 Poireaux × 3, 🥚 Œufs × 3, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🥧🥬 **Quiche épinards chèvre** : 🥧 Pâte brisée, 🥬 Épinards, 🧀 Fromage de chèvre, 🥚 Œufs × 3, 🥛 Crème fraîche
+- 🥧🐟 **Quiche saumon brocoli** : 🥧 Pâte brisée, 🐟 Saumon, 🥦 Brocoli × 1, 🥚 Œufs × 3, 🥛 Crème fraîche
+- 🥧🍅 **Tarte à la tomate** : 🥐 Pâte feuilletée, 🍅 Tomates × 4, 🫙 Moutarde, 🧀 Emmental râpé
+- 🥧🥒 **Tarte aux courgettes** : 🥧 Pâte brisée, 🥒 Courgettes × 3, 🧀 Fromage de chèvre, 🥚 Œufs × 2, 🥛 Crème fraîche
+- 🥧🧅 **Tarte aux oignons** : 🥧 Pâte brisée, 🧅 Oignons × 4, 🥚 Œufs × 2, 🥛 Crème fraîche
+- 🥧🍄 **Tarte champignons ricotta** : 🥧 Pâte brisée, 🍄 Champignons, 🥛 Ricotta, 🥚 Œufs × 2
+- 🍕 **Pizza Margherita** : 🍕 Pâte à pizza, 🍅 Tomates concassées, 🧀 Mozzarella, 🌿 Basilic
+- 🍕🥩 **Pizza jambon champignons** : 🍕 Pâte à pizza, 🍅 Tomates concassées, 🥩 Jambon, 🍄 Champignons, 🧀 Mozzarella
+- 🍕 **Pizza quatre fromages** : 🍕 Pâte à pizza, 🧀 Mozzarella, 🧀 Emmental râpé, 🧀 Roquefort, 🧀 Fromage de chèvre, 🥛 Crème fraîche
+- 🍕 **Pizza végétarienne** : 🍕 Pâte à pizza, 🍅 Tomates concassées, 🥒 Courgettes × 1, 🫑 Poivrons × 1, 🍄 Champignons, 🧀 Mozzarella
+- 🍕🥫 **Pizza au thon** : 🍕 Pâte à pizza, 🍅 Tomates concassées, 🥫 Thon en conserve, 🧅 Oignons × 1, 🫒 Olives, 🧀 Mozzarella
+- 🍕🥓 **Pizza au chorizo** : 🍕 Pâte à pizza, 🍅 Tomates concassées, 🥓 Chorizo, 🫑 Poivrons × 1, 🧀 Mozzarella
+- 🥘🧀 **Feuilletés chèvre miel** : 🥐 Pâte feuilletée, 🧀 Fromage de chèvre, 🍯 Miel, 🥚 Œufs × 1
+- 🥘🌭 **Feuilletés aux saucisses** : 🥐 Pâte feuilletée, 🌭 Saucisses, 🫙 Moutarde, 🥚 Œufs × 1
+- 🥘🥬 **Feuilletés épinards feta** : 🥐 Pâte feuilletée, 🥬 Épinards, 🧀 Feta, 🥚 Œufs × 1
+- 🥘🥫 **Bricks au thon** : 🫓 Feuilles de brick, 🥫 Thon en conserve, 🥚 Œufs × 2, 🥔 Pommes de terre × 2
+- 🥘 **Bricks au fromage** : 🫓 Feuilles de brick, 🧀 Feta, 🥚 Œufs × 1
+- 🥘 **Galette complète** : 🌾 Farine de sarrasin, 🥚 Œufs × 3, 🥩 Jambon, 🧀 Emmental râpé
+
+## Légumes et gratins
+
+- 🥬 **Ratatouille** : 🥒 Courgettes × 2, 🍆 Aubergines × 1, 🫑 Poivrons × 2, 🍅 Tomates × 3, 🧅 Oignons × 1
+- 🥬 **Gratin dauphinois** : 🥔 Pommes de terre × 6, 🥛 Crème fraîche, 🥛 Lait
+- 🥬🥒 **Gratin de courgettes** : 🥒 Courgettes × 3, 🥛 Crème fraîche, 🥚 Œufs × 2, 🧀 Emmental râpé
+- 🥬 **Gratin de chou-fleur** : 🥬 Chou-fleur × 1, 🥛 Lait, 🌾 Farine de blé, 🧀 Emmental râpé
+- 🥬🥦 **Gratin de brocoli** : 🥦 Brocoli × 1, 🥛 Lait, 🌾 Farine de blé, 🧀 Emmental râpé
+- 🥬 **Gratin de poireaux** : 🥬 Poireaux × 3, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🥬 **Gratin de patates douces** : 🍠 Patates douces × 3, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🥬 **Purée de pommes de terre** : 🥔 Pommes de terre × 5, 🥛 Lait
+- 🥬🥕 **Purée de carottes** : 🥕 Carottes × 5, 🥔 Pommes de terre × 2, 🥛 Crème fraîche
+- 🥬 **Purée de patates douces** : 🍠 Patates douces × 3, 🥛 Lait
+- 🥬 **Pommes de terre rôties** : 🥔 Pommes de terre × 5
+- 🍨🥕 **Carottes glacées** : 🥕 Carottes × 5, 🍬 Sucre
+- 🥬 **Fondue de poireaux** : 🥬 Poireaux × 3, 🥛 Crème fraîche, 🍋 Citrons × 1
+- 🥬🧄 **Haricots verts à l’ail** : 🌿 Haricots verts, 🧄 Ail × 1
+- 🥬🍄 **Poêlée de champignons** : 🍄 Champignons
+- 🍮🥬 **Épinards à la crème** : 🥬 Épinards, 🥛 Crème fraîche
+- 🥬🥒 **Courgettes farcies** : 🥒 Courgettes × 2, 🥩 Bœuf haché, 🧅 Oignons × 1, 🍅 Tomates concassées, 🧀 Emmental râpé
+- 🥬🍅 **Tomates farcies** : 🍅 Tomates × 4, 🥩 Porc, 🧅 Oignons × 1, 🍞 Pain
+- 🍚🫑 **Poivrons farcis au riz** : 🫑 Poivrons × 2, 🍚 Riz, 🍅 Tomates concassées, 🧅 Oignons × 1, 🧀 Feta
+- 🥬🍆 **Aubergines gratinées** : 🍆 Aubergines × 2, 🍅 Tomates concassées, 🧀 Mozzarella, 🧀 Parmesan
+- 🥬 **Endives au jambon** : 🥬 Endives × 3, 🥩 Jambon, 🥛 Lait, 🌾 Farine de blé, 🧀 Emmental râpé
+- 🥬 **Choux de Bruxelles rôtis** : 🥬 Choux de Bruxelles
+- 🥬 **Asperges au citron** : 🥬 Asperges, 🍋 Citrons × 1
+- 🥬 **Fenouil braisé** : 🥬 Fenouil × 2, 🍲 Bouillon de légumes, 🍋 Citrons × 1
+- 🥬 **Tian de légumes** : 🥒 Courgettes × 1, 🍆 Aubergines × 1, 🍅 Tomates × 3, 🧅 Oignons × 1
+- 🥬 **Galettes de légumes** : 🥒 Courgettes × 1, 🥕 Carottes × 2, 🥚 Œufs × 2, 🌾 Farine de blé
+
+## Viandes et plats familiaux
+
+- 🥩🍗 **Poulet rôti aux pommes de terre** : 🍗 Poulet, 🥔 Pommes de terre × 5
+- 🍮🍗 **Poulet à la crème** : 🍗 Poulet, 🥛 Crème fraîche, 🍄 Champignons, 🧅 Échalotes × 1
+- 🍛🍗 **Poulet au curry** : 🍗 Poulet, 🧅 Oignons × 1, 🍛 Curry, 🥥 Lait de coco, 🍚 Riz
+- 🥩🍗 **Poulet basquaise** : 🍗 Poulet, 🫑 Poivrons × 2, 🍅 Tomates concassées, 🧅 Oignons × 1
+- 🥩🍗 **Poulet au citron** : 🍗 Poulet, 🍋 Citrons × 2
+- 🥩🍗 **Poulet à la moutarde** : 🍗 Poulet, 🫙 Moutarde, 🥛 Crème fraîche, 🧅 Échalotes × 1
+- 🥩🍗 **Poulet aux olives** : 🍗 Poulet, 🫒 Olives, 🍋 Citrons × 1, 🧅 Oignons × 1, 🧂 Cumin
+- 🥩🍗 **Poulet au miel** : 🍗 Poulet, 🍯 Miel, 🫙 Sauce soja, 🍚 Riz
+- 🍮🍗 **Dinde à la crème** : 🍗 Dinde, 🥛 Crème fraîche, 🍄 Champignons, 🧅 Échalotes × 1
+- 🥩🍗 **Escalopes de dinde panées** : 🍗 Dinde, 🥚 Œufs × 1, 🌾 Farine de blé, 🍞 Chapelure, 🍋 Citrons × 1
+- 🥩 **Escalopes de veau au citron** : 🥩 Veau, 🍋 Citrons × 1, 🌾 Farine de blé
+- 🥩 **Blanquette de veau simplifiée** : 🥩 Veau, 🥕 Carottes × 3, 🍄 Champignons, 🧅 Oignons × 1, 🥛 Crème fraîche, 🍲 Bouillon de légumes, 🌾 Farine de blé
+- 🥩 **Bœuf bourguignon** : 🥩 Bœuf, 🍷 Vin rouge de cuisine, 🥕 Carottes × 3, 🧅 Oignons × 1, 🍄 Champignons, 🥓 Lardons, 🌾 Farine de blé
+- 🥩 **Hachis parmentier** : 🥩 Bœuf haché, 🥔 Pommes de terre × 5, 🧅 Oignons × 1, 🥛 Lait, 🧀 Emmental râpé
+- 🥩 **Boulettes de bœuf à la tomate** : 🥩 Bœuf haché, 🥚 Œufs × 1, 🍞 Chapelure, 🍅 Tomates concassées, 🧅 Oignons × 1
+- 🥩 **Chili con carne** : 🥩 Bœuf haché, 🫘 Haricots rouges, 🍅 Tomates concassées, 🧅 Oignons × 1, 🫑 Poivrons × 1, 🧂 Cumin, 🌶️ Piment
+- 🥩🧅 **Steak aux échalotes** : 🥩 Bœuf, 🧅 Échalotes × 1
+- 🥩 **Sauté de porc à la moutarde** : 🥩 Porc, 🫙 Moutarde, 🥛 Crème fraîche, 🧅 Oignons × 1
+- 🥩 **Porc au caramel** : 🥩 Porc, 🍬 Sucre, 🫙 Sauce soja, 🫚 Gingembre, 🍚 Riz
+- 🥩 **Filet de porc aux pommes** : 🥩 Porc, 🍎 Pommes × 2, 🍺 Cidre de cuisine, 🥛 Crème fraîche
+- 🥩🌭 **Saucisses aux lentilles** : 🌭 Saucisses, 🫘 Lentilles vertes, 🥕 Carottes × 2, 🧅 Oignons × 1
+- 🥩 **Tartiflette** : 🥔 Pommes de terre × 5, 🥓 Lardons, 🧅 Oignons × 1, 🧀 Reblochon, 🥛 Crème fraîche
+- 🥩🧀 **Raclette** : 🧀 Fromage à raclette, 🥔 Pommes de terre × 5, 🥩 Jambon, 🥒 Cornichons
+- 🥩🍗 **Magret de canard au miel** : 🍗 Canard, 🍯 Miel
+- 🥩🍗 **Parmentier de canard** : 🍗 Canard, 🥔 Pommes de terre × 5, 🥛 Lait, 🧅 Échalotes × 1
+- 🥩 **Navarin d’agneau** : 🥩 Agneau, 🥕 Carottes × 2, 🥕 Navets × 2, 🥔 Pommes de terre × 3, 🫛 Petits pois, 🧅 Oignons × 1, 🍲 Bouillon de légumes
+- 🥩 **Agneau au romarin** : 🥩 Agneau, 🌿 Romarin, 🥔 Pommes de terre × 4
+- 🥩 **Moussaka simplifiée** : 🍆 Aubergines × 2, 🥩 Bœuf haché, 🍅 Tomates concassées, 🧅 Oignons × 1, 🥛 Lait, 🌾 Farine de blé, 🧀 Emmental râpé
+
+## Poissons et fruits de mer
+
+- 🐟 **Saumon au four** : 🐟 Saumon, 🍋 Citrons × 1
+- 🍮🐟 **Saumon à la crème** : 🐟 Saumon, 🥛 Crème fraîche, 🍋 Citrons × 1, 🧅 Échalotes × 1
+- 🐟 **Saumon teriyaki simplifié** : 🐟 Saumon, 🫙 Sauce soja, 🍯 Miel, 🫚 Gingembre, 🍚 Riz, 🌱 Graines de sésame
+- 🐟 **Papillote de cabillaud** : 🐟 Cabillaud, 🥒 Courgettes × 1, 🍅 Tomates × 1, 🍋 Citrons × 1
+- 🐟 **Cabillaud à la tomate** : 🐟 Cabillaud, 🍅 Tomates concassées, 🧅 Oignons × 1
+- 🐟 **Poisson pané maison** : 🐟 Cabillaud, 🥚 Œufs × 1, 🌾 Farine de blé, 🍞 Chapelure, 🍋 Citrons × 1
+- 🐟 **Brandade simplifiée au cabillaud** : 🐟 Cabillaud, 🥔 Pommes de terre × 4, 🥛 Lait
+- 🐟🦐 **Crevettes à l’ail** : 🦐 Crevettes, 🧄 Ail × 1, 🍋 Citrons × 1
+- 🍛🦐 **Curry de crevettes** : 🦐 Crevettes, 🥥 Lait de coco, 🍛 Curry, 🧅 Oignons × 1, 🍚 Riz
+- 🐟🐚 **Moules marinières** : 🐚 Moules, 🥂 Vin blanc de cuisine, 🧅 Échalotes × 1
+- 🍮🐚 **Moules à la crème** : 🐚 Moules, 🥛 Crème fraîche, 🥂 Vin blanc de cuisine, 🧅 Échalotes × 1
+- 🐟🦑 **Calamars à la tomate** : 🦑 Calamars, 🍅 Tomates concassées, 🧅 Oignons × 1
+- 🥪🐟 **Sardines sur tartines** : 🐟 Sardines, 🍞 Pain, 🍋 Citrons × 1
+- 🐟🥫 **Rillettes de thon** : 🥫 Thon en conserve, 🥛 Fromage blanc, 🍋 Citrons × 1, 🍞 Pain
+- 🐟🥫 **Galettes de thon** : 🥫 Thon en conserve, 🥚 Œufs × 1, 🍞 Chapelure, 🧅 Oignons × 1
+
+## Végétarien et cuisines du monde
+
+- 🥘 **Dahl de lentilles corail** : 🫘 Lentilles corail, 🥥 Lait de coco, 🍅 Tomates concassées, 🧅 Oignons × 1, 🍛 Curry, 🧂 Cumin, 🍚 Riz
+- 🥘 **Chili sin carne** : 🫘 Haricots rouges, 🌽 Maïs, 🍅 Tomates concassées, 🧅 Oignons × 1, 🫑 Poivrons × 1, 🧂 Cumin, 🌶️ Piment
+- 🍛🫘 **Curry de pois chiches** : 🫘 Pois chiches, 🥥 Lait de coco, 🍅 Tomates concassées, 🧅 Oignons × 1, 🍛 Curry, 🥬 Épinards
+- 🍛 **Curry de légumes** : 🥕 Carottes × 2, 🥒 Courgettes × 1, 🥦 Brocoli × 1, 🥥 Lait de coco, 🍛 Curry, 🍚 Riz
+- 🥘🫘 **Tofu sauté aux légumes** : 🫘 Tofu, 🥦 Brocoli × 1, 🥕 Carottes × 1, 🫙 Sauce soja, 🫚 Gingembre
+- 🥘🫘 **Tofu croustillant** : 🫘 Tofu, 🌽 Fécule de maïs, 🫙 Sauce soja, 🌱 Graines de sésame
+- 🥘 **Falafels au four** : 🫘 Pois chiches, 🧅 Oignons × 1, 🧂 Cumin, 🌾 Farine de blé
+- 🥘🫘 **Lentilles à la tomate** : 🫘 Lentilles vertes, 🍅 Tomates concassées, 🥕 Carottes × 1, 🧅 Oignons × 1, 🍲 Bouillon de légumes
+- 🥘 **Haricots blancs à la tomate** : 🫘 Haricots blancs, 🍅 Tomates concassées, 🧅 Oignons × 1
+- 🍜 **Nouilles sautées au poulet** : 🍜 Nouilles asiatiques, 🍗 Poulet, 🥕 Carottes × 1, 🫑 Poivrons × 1, 🫙 Sauce soja
+- 🍜 **Nouilles sautées au tofu** : 🍜 Nouilles asiatiques, 🫘 Tofu, 🥕 Carottes × 1, 🥬 Chou blanc, 🫙 Sauce soja
+- 🍜 **Nouilles aux crevettes** : 🍜 Nouilles asiatiques, 🦐 Crevettes, 🥕 Carottes × 1, 🫙 Sauce soja, 🫚 Gingembre
+- 🥘 **Pad thaï simplifié** : 🍜 Nouilles asiatiques, 🦐 Crevettes, 🥚 Œufs × 2, 🥜 Cacahuètes, 🍋‍🟩 Citrons verts × 1, 🫙 Sauce soja, 🍬 Sucre
+- 🥘 **Rouleaux de printemps** : 🫓 Feuilles de riz, 🍜 Vermicelles de riz, 🦐 Crevettes, 🥬 Salade verte, 🥕 Carottes × 1, 🌿 Menthe
+- 🥘🥩 **Nems au porc simplifiés** : 🫓 Feuilles de riz, 🥩 Porc, 🍜 Vermicelles de riz, 🥕 Carottes × 1, 🧅 Oignons × 1, 🥚 Œufs × 1
+- 🥘 **Samoussas aux légumes** : 🫓 Feuilles de brick, 🥔 Pommes de terre × 2, 🫛 Petits pois, 🥕 Carottes × 1, 🍛 Curry
+- 🥘 **Tajine de légumes** : 🥕 Carottes × 2, 🥒 Courgettes × 1, 🍠 Patates douces × 1, 🫘 Pois chiches, 🍑 Abricots, 🧂 Cumin, 🧂 Cannelle, 🍲 Bouillon de légumes
+- 🥘🍗 **Tajine de poulet aux abricots** : 🍗 Poulet, 🍑 Abricots, 🌰 Amandes, 🧅 Oignons × 1, 🧂 Cannelle, 🧂 Cumin, 🍲 Bouillon de légumes
+- 🥘🍗 **Poulet aux noix de cajou** : 🍗 Poulet, 🌰 Noix de cajou, 🫑 Poivrons × 1, 🧅 Oignons × 1, 🫙 Sauce soja
+- 🥘🍗 **Poulet à l’ananas** : 🍗 Poulet, 🍍 Ananas × 1, 🫑 Poivrons × 1, 🫙 Sauce soja, 🍯 Miel, 🍚 Riz
+- 🥘 **Keftas** : 🥩 Bœuf haché, 🧅 Oignons × 1, 🧂 Cumin, 🌶️ Paprika
+- 🥘🍗 **Fajitas au poulet** : 🫓 Tortillas, 🍗 Poulet, 🫑 Poivrons × 2, 🧅 Oignons × 1, 🌶️ Paprika
+- 🌮 **Tacos aux haricots** : 🫓 Tortillas, 🫘 Haricots rouges, 🥑 Avocats × 1, 🍅 Tomates × 1, 🧂 Cumin, 🍋‍🟩 Citrons verts × 1
+- 🌯 **Burritos végétariens** : 🫓 Tortillas, 🍚 Riz, 🫘 Haricots rouges, 🌽 Maïs, 🍅 Tomates × 1, 🧀 Emmental râpé
+- 🥘🫘 **Poké bowl au tofu** : 🍚 Riz, 🫘 Tofu, 🥑 Avocats × 1, 🥒 Concombres × 1, 🥭 Mangues × 1, 🫙 Sauce soja, 🌱 Graines de sésame
+
+## Petits déjeuners et goûters
+
+- 🥘 **Porridge nature** : 🌾 Flocons d’avoine, 🥛 Lait, 🍯 Miel
+- 🥘🍌 **Porridge banane chocolat** : 🌾 Flocons d’avoine, 🥛 Lait, 🍌 Bananes × 1, 🍫 Chocolat noir
+- 🥘🍎 **Porridge pomme cannelle** : 🌾 Flocons d’avoine, 🥛 Lait, 🍎 Pommes × 1, 🧂 Cannelle, 🍯 Miel
+- 🥘 **Overnight oats aux fruits rouges** : 🌾 Flocons d’avoine, 🥛 Yaourt nature, 🥛 Lait, 🍓 Fraises, 🌱 Graines de chia
+- 🥘 **Granola maison** : 🌾 Flocons d’avoine, 🌰 Amandes, 🌰 Noisettes, 🍯 Miel
+- 🥞 **Pancakes** : 🌾 Farine de blé, 🥚 Œufs × 2, 🥛 Lait, 🍞 Levure chimique, 🍬 Sucre, 🧈 Beurre
+- 🥞🍌 **Pancakes à la banane** : 🍌 Bananes × 2, 🥚 Œufs × 2, 🌾 Farine de blé, 🥛 Lait, 🍞 Levure chimique
+- 🥞 **Crêpes** : 🌾 Farine de blé, 🥚 Œufs × 3, 🥛 Lait, 🧈 Beurre, 🍬 Sucre
+- 🧇 **Gaufres** : 🌾 Farine de blé, 🥚 Œufs × 2, 🥛 Lait, 🧈 Beurre, 🍬 Sucre, 🍞 Levure chimique
+- 🍞 **Pain perdu** : 🍞 Pain, 🥚 Œufs × 2, 🥛 Lait, 🍬 Sucre, 🧈 Beurre
+- 🥘🥛 **Yaourt fruits et granola** : 🥛 Yaourt nature, 🌾 Flocons d’avoine, 🍯 Miel, 🍓 Fraises, 🌰 Amandes
+- 🥘🍌 **Smoothie banane fraise** : 🍌 Bananes × 1, 🍓 Fraises, 🥛 Lait
+- 🥘🥭 **Smoothie mangue coco** : 🥭 Mangues × 1, 🥥 Lait de coco, 🍌 Bananes × 1
+- 🥘🥝 **Smoothie kiwi pomme** : 🥝 Kiwis × 2, 🍎 Pommes × 1, 🥛 Yaourt nature
+- 🍎 **Compote de pommes** : 🍎 Pommes × 4
+- 🍎 **Compote pomme poire** : 🍎 Pommes × 2, 🍐 Poires × 2, 🧂 Vanille
+- 🥪🧈 **Tartines beurre confiture** : 🍞 Pain, 🧈 Beurre, 🫙 Confiture
+- 🥘🌱 **Pudding de chia** : 🌱 Graines de chia, 🥛 Lait, 🍯 Miel, 🫐 Myrtilles
+- 🥘🥛 **Fromage blanc miel noix** : 🥛 Fromage blanc, 🍯 Miel, 🌰 Noix
+- 🥘🍇 **Barres d’avoine aux dattes** : 🌾 Flocons d’avoine, 🍇 Dattes, 🥜 Cacahuètes, 🍯 Miel
+
+## Desserts
+
+- 🍰🥛 **Gâteau au yaourt** : 🥛 Yaourt nature, 🌾 Farine de blé, 🥚 Œufs × 3, 🍬 Sucre, 🍞 Levure chimique
+- 🍰🍫 **Gâteau au chocolat** : 🍫 Chocolat noir, 🧈 Beurre, 🥚 Œufs × 3, 🌾 Farine de blé, 🍬 Sucre
+- 🍰🍫 **Fondant au chocolat** : 🍫 Chocolat noir, 🧈 Beurre, 🥚 Œufs × 3, 🌾 Farine de blé, 🍬 Sucre
+- 🍰🌰 **Brownies aux noix** : 🍫 Chocolat noir, 🧈 Beurre, 🥚 Œufs × 2, 🌾 Farine de blé, 🍬 Sucre, 🌰 Noix
+- 🍪🍫 **Cookies au chocolat** : 🌾 Farine de blé, 🧈 Beurre, 🥚 Œufs × 1, 🍬 Sucre, 🍫 Chocolat noir, 🍞 Levure chimique
+- 🍪🌰 **Cookies aux noisettes** : 🌾 Farine de blé, 🧈 Beurre, 🥚 Œufs × 1, 🍬 Sucre, 🌰 Noisettes, 🍫 Chocolat noir
+- 🍰 **Banana bread** : 🍌 Bananes × 3, 🌾 Farine de blé, 🥚 Œufs × 2, 🧈 Beurre, 🍬 Sucre, 🍞 Levure chimique
+- 🍰🍋 **Cake au citron** : 🌾 Farine de blé, 🥚 Œufs × 3, 🧈 Beurre, 🍬 Sucre, 🍋 Citrons × 2, 🍞 Levure chimique
+- 🍰 **Cake aux fruits secs** : 🌾 Farine de blé, 🥚 Œufs × 3, 🧈 Beurre, 🍬 Sucre, 🍇 Raisins secs, 🍑 Abricots, 🍞 Levure chimique
+- 🧁🫐 **Muffins aux myrtilles** : 🌾 Farine de blé, 🥚 Œufs × 2, 🥛 Lait, 🧈 Beurre, 🍬 Sucre, 🫐 Myrtilles, 🍞 Levure chimique
+- 🧁🍫 **Muffins au chocolat** : 🌾 Farine de blé, 🥚 Œufs × 2, 🥛 Lait, 🧈 Beurre, 🍬 Sucre, 🍫 Chocolat noir, 🍞 Levure chimique
+- 🍰🍎 **Crumble aux pommes** : 🍎 Pommes × 4, 🌾 Farine de blé, 🧈 Beurre, 🍬 Sucre, 🧂 Cannelle
+- 🍰🍐 **Crumble poire chocolat** : 🍐 Poires × 3, 🍫 Chocolat noir, 🌾 Farine de blé, 🧈 Beurre, 🍬 Sucre
+- 🍰 **Crumble aux fruits rouges** : 🍓 Fraises, 🍓 Framboises, 🫐 Myrtilles, 🌾 Farine de blé, 🧈 Beurre, 🍬 Sucre
+- 🥧🍎 **Tarte aux pommes** : 🥧 Pâte brisée, 🍎 Pommes × 4, 🍬 Sucre, 🧈 Beurre
+- 🥧🍐 **Tarte aux poires amandine** : 🥧 Pâte brisée, 🍐 Poires × 3, 🌰 Amandes, 🥚 Œufs × 2, 🧈 Beurre, 🍬 Sucre
+- 🥧🍋 **Tarte au citron** : 🥧 Pâte brisée, 🍋 Citrons × 3, 🥚 Œufs × 3, 🍬 Sucre, 🧈 Beurre
+- 🥧🍓 **Tarte aux fraises** : 🥧 Pâte brisée, 🍓 Fraises, 🥛 Lait, 🥚 Œufs × 2, 🍬 Sucre, 🌽 Fécule de maïs, 🧂 Vanille
+- 🍰🍒 **Clafoutis aux cerises** : 🍒 Cerises, 🌾 Farine de blé, 🥚 Œufs × 3, 🥛 Lait, 🍬 Sucre, 🧈 Beurre
+- 🍰🍑 **Clafoutis aux pêches** : 🍑 Pêches × 3, 🌾 Farine de blé, 🥚 Œufs × 3, 🥛 Lait, 🍬 Sucre
+- 🍮🍫 **Mousse au chocolat** : 🍫 Chocolat noir, 🥚 Œufs × 3, 🍬 Sucre
+- 🍚 **Riz au lait** : 🍚 Riz, 🥛 Lait, 🍬 Sucre, 🧂 Vanille
+- 🍰🍚 **Semoule au lait** : 🍚 Semoule de couscous, 🥛 Lait, 🍬 Sucre, 🧂 Vanille
+- 🍮🧂 **Crème à la vanille** : 🥛 Lait, 🥚 Œufs × 2, 🍬 Sucre, 🌽 Fécule de maïs, 🧂 Vanille
+- 🍮🍫 **Crème au chocolat** : 🥛 Lait, 🍫 Chocolat noir, 🍬 Sucre, 🌽 Fécule de maïs
+- 🍮 **Crème brûlée** : 🥛 Crème fraîche, 🥚 Œufs × 3, 🍬 Sucre, 🧂 Vanille
+- 🍮 **Panna cotta** : 🥛 Crème fraîche, 🍬 Sucre, 🍮 Gélatine, 🧂 Vanille
+- 🍰 **Tiramisu** : 🥛 Mascarpone, 🥚 Œufs × 3, 🍬 Sucre, ☕ Café, 🍪 Biscuits à la cuillère, 🍫 Cacao
+- 🍰 **Cheesecake sans cuisson** : 🍪 Biscuits secs, 🧈 Beurre, 🥛 Fromage blanc, 🥛 Crème fraîche, 🍬 Sucre, 🍮 Gélatine, 🍋 Citrons × 1
+- 🍰 **Madeleines** : 🌾 Farine de blé, 🥚 Œufs × 2, 🧈 Beurre, 🍬 Sucre, 🍞 Levure chimique, 🍋 Citrons × 1
+- 🍰 **Financiers** : 🌰 Amandes, 🌾 Farine de blé, 🥚 Œufs × 3, 🧈 Beurre, 🍬 Sucre glace
+- 🍰 **Sablés** : 🌾 Farine de blé, 🧈 Beurre, 🍬 Sucre, 🥚 Œufs × 1, 🧂 Vanille
+- 🍰 **Rochers coco** : 🥥 Noix de coco râpée, 🥚 Œufs × 2, 🍬 Sucre
+- 🥗 **Salade de fruits** : 🍎 Pommes × 1, 🍌 Bananes × 1, 🍊 Oranges × 1, 🥝 Kiwis × 2, 🍇 Raisins
+- 🍰🍎 **Pommes au four** : 🍎 Pommes × 2, 🍯 Miel, 🧈 Beurre, 🧂 Cannelle
+- 🍰🍐 **Poires au chocolat** : 🍐 Poires × 2, 🍫 Chocolat noir, 🥛 Crème fraîche
+- 🍰🍍 **Ananas rôti** : 🍍 Ananas × 1, 🧈 Beurre, 🍬 Sucre, 🧂 Vanille
+- 🍰🍑 **Pêches rôties au miel** : 🍑 Pêches × 2, 🍯 Miel, 🧈 Beurre, 🌰 Amandes
+- 🍮 **Flan pâtissier** : 🥧 Pâte brisée, 🥛 Lait, 🥚 Œufs × 3, 🍬 Sucre, 🌽 Fécule de maïs, 🧂 Vanille
+- 🍰 **Îles flottantes** : 🥛 Lait, 🥚 Œufs × 3, 🍬 Sucre, 🧂 Vanille
+- 🍰🍚 **Gâteau de semoule** : 🍚 Semoule de couscous, 🥛 Lait, 🥚 Œufs × 2, 🍬 Sucre, 🍇 Raisins secs, 🧂 Vanille
+- 🍰🍊 **Oranges à la cannelle** : 🍊 Oranges × 3, 🧂 Cannelle, 🍊 Eau de fleur d’oranger, 🍬 Sucre
+
+## Pains, sauces et accompagnements
+
+- 🍞 **Pain maison** : 🌾 Farine de blé, 🍞 Levure de boulanger, 🧂 Sel
+- 🥘 **Focaccia** : 🌾 Farine de blé, 🍞 Levure de boulanger
+- 🍞🌰 **Pain aux noix** : 🌾 Farine de blé, 🍞 Levure de boulanger, 🌰 Noix, 🧂 Sel
+- 🫙 **Sauce béchamel** : 🥛 Lait, 🧈 Beurre, 🌾 Farine de blé, 🧂 Muscade, 🧂 Sel
+- 🫙🍅 **Sauce tomate maison** : 🍅 Tomates × 5, 🧅 Oignons × 1, 🧄 Ail × 1, 🫒 Huile d’olive, 🌿 Basilic, 🧂 Sel
+- 🫙🌰 **Pesto maison aux amandes** : 🌿 Basilic, 🌰 Amandes, 🧀 Parmesan, 🧄 Ail × 1, 🫒 Huile d’olive
+- 🫙🥛 **Sauce au yaourt** : 🥛 Yaourt nature, 🍋 Citrons × 1, 🌿 Ciboulette, 🧂 Sel
+- 🥘 **Mayonnaise maison** : 🥚 Œufs × 1, 🫙 Huile neutre, 🫙 Moutarde, 🫙 Vinaigre, 🧂 Sel
+- 🫙 **Vinaigrette** : 🫙 Moutarde, 🫙 Vinaigre, 🫒 Huile d’olive, 🧂 Sel, 🧂 Poivre
+- 🥘 **Tapenade** : 🫒 Olives, 🐟 Anchois, 🫒 Câpres, 🧄 Ail × 1
+- 🫙🍄 **Sauce aux champignons** : 🍄 Champignons, 🥛 Crème fraîche, 🧅 Échalotes × 1, 🧈 Beurre
+- 🫙🧂 **Sauce au poivre** : 🥛 Crème fraîche, 🧂 Poivre, 🍲 Bouillon de légumes, 🧈 Beurre
+- 🫙🧀 **Sauce au roquefort** : 🧀 Roquefort, 🥛 Crème fraîche
+- 🥘🧀 **Camembert rôti** : 🧀 Camembert, 🍯 Miel, 🍞 Pain
+- 🥘🫘 **Purée de pois chiches** : 🫘 Pois chiches, 🍋 Citrons × 1, 🧄 Ail × 1
+- 🥗🍉 **Salade pastèque feta** : 🍉 Pastèque, 🧀 Feta, 🌿 Menthe, 🍋 Citrons × 1
+- 🫙 **Sauce tomate au concentré** : 🍅 Concentré de tomate, 🧅 Oignons × 1, 🧄 Ail × 1, 🫒 Huile d’olive, 🍲 Bouillon de légumes, 🌿 Herbes de Provence
+- 🍚🧂 **Riz au curcuma** : 🍚 Riz, 🧂 Curcuma, 🧅 Oignons × 1, 🍲 Bouillon de légumes
+- 🥞 **Pancakes au sirop d’érable** : 🌾 Farine de blé, 🥚 Œufs × 2, 🥛 Lait, 🍞 Levure chimique, 🧈 Beurre, 🍯 Sirop d’érable
+
+## Vos idées simples
+
+- 🥪🥫 **Sandwich thon mayonnaise** : 🥫 Thon en conserve, 🫙 Mayonnaise, 🍞 Pain
+- 🥪 **Sandwich à la tartinade de thon** : 🐟 Tartinade de thon, 🍞 Pain
+- 🥪🥩 **Sandwich jambon fromage** : 🍞 Pain, 🥩 Jambon, 🧀 Fromage
+- 🥪🥩 **Sandwich jambon sec beurre** : 🍞 Pain, 🥩 Jambon sec, 🧈 Beurre
+- 🥪🥩 **Sandwich saucisson cornichons** : 🍞 Pain, 🥩 Saucisson, 🥒 Cornichons
+- 🥪🥩 **Croque jambon fromage simple** : 🍞 Pain de mie, 🥩 Jambon, 🧀 Emmental râpé
+- 🥪🥫 **Croque au thon et fromage** : 🍞 Pain de mie, 🥫 Thon en conserve, 🧀 Emmental râpé
+- 🥪🍌 **Croque banane chocolat** : 🍞 Pain de mie, 🍌 Bananes × 1, 🍫 Chocolat noir
+- 🥪🧈 **Tartines beurre chocolat** : 🍞 Pain, 🧈 Beurre, 🍫 Chocolat noir
+- 🥪 **Tartines à la pâte à tartiner** : 🍞 Pain, 🍫 Pâte à tartiner
+- 🥪🍞 **Brioche à la pâte à tartiner** : 🍞 Brioche, 🍫 Pâte à tartiner
+- 🍞 **Brioche perdue** : 🍞 Brioche, 🥚 Œufs × 2, 🥛 Lait, 🧈 Beurre
+- 🍞 **Pain perdu sans sucre ajouté** : 🍞 Pain, 🥚 Œufs × 2, 🥛 Lait, 🧈 Beurre
+- 🍔🥩 **Burger steak fromage ketchup** : 🍔 Pains à burger, 🥩 Steak, 🧀 Fromage, 🍅 Ketchup
+- 🍔🍗 **Burger nuggets mayonnaise** : 🍔 Pains à burger, 🍗 Nuggets, 🫙 Mayonnaise
+- 🍔🧀 **Burger poisson fromage** : 🍔 Pains à burger, 🐟 Bâtonnets de poisson, 🧀 Fromage
+- 🍝🧈 **Pâtes beurre fromage râpé** : 🍝 Pâtes, 🧈 Beurre, 🧀 Emmental râpé
+- 🍝🥫 **Pâtes au thon et à la crème** : 🍝 Pâtes, 🥫 Thon en conserve, 🥛 Crème fraîche
+- 🍝🥩 **Pâtes jambon crème fromage** : 🍝 Pâtes, 🥩 Jambon, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🍝🍄 **Pâtes champignons crème** : 🍝 Pâtes, 🍄 Champignons, 🥛 Crème fraîche
+- 🍝🥩 **Pâtes viande crème** : 🍝 Pâtes, 🥩 Viande, 🥛 Crème fraîche
+- 🍚🥫 **Riz au thon** : 🍚 Riz, 🥫 Thon en conserve
+- 🍚🥩 **Riz jambon fromage** : 🍚 Riz, 🥩 Jambon, 🧀 Emmental râpé
+- 🍚🍄 **Riz aux champignons et à la crème** : 🍚 Riz, 🍄 Champignons, 🥛 Crème fraîche
+- 🍲 **Riz au bouillon cube** : 🍚 Riz, 🍲 Bouillon de légumes
+- 🍚 **Riz aux œufs simple** : 🍚 Riz, 🥚 Œufs × 2
+- 🥘🍚 **Semoule au beurre** : 🍚 Semoule de couscous, 🧈 Beurre
+- 🥘🍚 **Semoule au thon** : 🍚 Semoule de couscous, 🥫 Thon en conserve
+- 🥘🍚 **Semoule jambon fromage** : 🍚 Semoule de couscous, 🥩 Jambon, 🧀 Emmental râpé
+- 🍲🍚 **Semoule au bouillon cube** : 🍚 Semoule de couscous, 🍲 Bouillon de légumes
+- 🍚🍗 **Nuggets et riz** : 🍗 Nuggets, 🍚 Riz
+- 🥘🍗 **Nuggets et purée** : 🍗 Nuggets, 🥔 Pommes de terre × 4, 🥛 Lait, 🧈 Beurre
+- 🍚 **Bâtonnets de poisson et riz** : 🐟 Bâtonnets de poisson, 🍚 Riz
+- 🥘 **Bâtonnets de poisson et pommes de terre** : 🐟 Bâtonnets de poisson, 🥔 Pommes de terre × 4
+- 🥘🥩 **Steak et pommes de terre** : 🥩 Steak, 🥔 Pommes de terre × 4
+- 🍝🥩 **Steak et pâtes** : 🥩 Steak, 🍝 Pâtes
+- 🍚🐟 **Poisson à la crème et riz** : 🐟 Poisson, 🥛 Crème fraîche, 🍚 Riz
+- 🥘🐟 **Poisson et semoule** : 🐟 Poisson, 🍚 Semoule de couscous
+- 🍚🥩 **Viande et riz** : 🥩 Viande, 🍚 Riz
+- 🥘🥩 **Pommes de terre jambon fromage** : 🥔 Pommes de terre × 4, 🥩 Jambon, 🧀 Emmental râpé
+- 🍮 **Gratin pommes de terre crème fromage** : 🥔 Pommes de terre × 4, 🥛 Crème fraîche, 🧀 Emmental râpé
+- 🥘🫙 **Pommes de terre et mayonnaise** : 🥔 Pommes de terre × 4, 🫙 Mayonnaise
+- 🥘🥩 **Œufs jambon fromage** : 🥚 Œufs × 4, 🥩 Jambon, 🧀 Emmental râpé
+- 🍳🍄 **Omelette champignons crème simple** : 🥚 Œufs × 4, 🍄 Champignons, 🥛 Crème fraîche
+- 🥘 **Œufs brouillés au fromage** : 🥚 Œufs × 4, 🧀 Emmental râpé
+- 🥘🍌 **Banane au chocolat** : 🍌 Bananes × 2, 🍫 Chocolat noir
+- 🥪🍌 **Banane à la pâte à tartiner** : 🍌 Bananes × 2, 🍫 Pâte à tartiner
+- 🥘🍫 **Lait chocolaté sans sucre ajouté** : 🥛 Lait, 🍫 Chocolat noir
+- 🍬 **Bonbons seuls** : 🍬 Bonbons
+- 🍫 **Chocolat à croquer** : 🍫 Chocolat noir
+- 🥛 **Yaourt nature seul** : 🥛 Yaourt nature
+- 🥛 **Fromage blanc nature seul** : 🥛 Fromage blanc
+- 🧀 **Fromage à déguster** : 🧀 Fromage
+- 🥩 **Saucisson à déguster** : 🥩 Saucisson
+- 🍞 **Brioche nature** : 🍞 Brioche

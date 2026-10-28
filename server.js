@@ -1,0 +1,5 @@
+const http = require('node:http');
+const fs = require('node:fs');
+const path = require('node:path');
+const root = fs.existsSync(path.join(__dirname,'dist','index.html')) ? path.join(__dirname,'dist') : __dirname;
+http.createServer((req,res)=>{let name;try{name=decodeURIComponent(req.url.split('?')[0]);}catch{res.writeHead(400);return res.end('Adresse invalide');}const file=path.resolve(root,'.'+(name==='/'?'/index.html':name));if(!file.startsWith(root+path.sep)){res.writeHead(403);return res.end();}fs.readFile(file,(err,data)=>{if(err){res.writeHead(404);return res.end('Introuvable');}res.setHeader('Content-Type',({'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css','.svg':'image/svg+xml','.png':'image/png','.md':'text/plain; charset=utf-8','.webmanifest':'application/manifest+json'})[path.extname(file)]||'application/octet-stream');res.end(data);});}).listen(Number(process.env.PORT||3000),'0.0.0.0',()=>console.log('Dino Frigo : http://localhost:'+ (process.env.PORT||3000)));

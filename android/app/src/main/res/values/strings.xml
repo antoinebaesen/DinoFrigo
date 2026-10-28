@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dino Frigo</string>
+    <string name="title_activity_main">Dino Frigo</string>
+    <string name="package_name">fr.dinofrigo.app</string>
+    <string name="custom_url_scheme">fr.dinofrigo.app</string>
+</resources>
